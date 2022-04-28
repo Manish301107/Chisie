@@ -50,9 +50,9 @@ h1 {
     background-color: rgb(255,255,255,0.7);
     font-size: 65px;
     color: black;
-    margin: 0% 38%;
+    margin: 0% 40%;
     
-    margin-top: 29%;
+    margin-top: 35%;
     letter-spacing: 2px;
     font-family: cursive;
     border-radius: 15px;
