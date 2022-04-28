@@ -48,17 +48,17 @@ hr {
 
 h1 {
     background-color: rgb(255,255,255,0.7);
-    font-size: 55px;
+    font-size: 65px;
     color: black;
-    margin: 0% 35%;
+    margin: 0% 38%;
     
-    margin-top: 15%;
+    margin-top: 29%;
     letter-spacing: 2px;
     font-family: cursive;
     border-radius: 15px;
 }
 .dialog {
-    font-size: 28px;
+    font-size: 35px;
     color: #95f6ff;
     margin-left: 37.25%;
     margin-top: 0.5%;
