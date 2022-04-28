@@ -13,20 +13,20 @@ body {
     font-size: 20px;
 }
 .heading-logo {
-    margin: 1% 9%;
+    margin: 0% 9%;
     display:flex;
 }
 ul {
     text-decoration: none;
     list-style: none;
-    margin: 3% 30%;
+    margin: 10% 30%;
     display:flex;
 }
 sub {
     font-size: 9px;
 }
 li {
-    margin: 3% 6%;
+    margin: 10% 6%;
 }
 hr {
     color: black;
@@ -49,15 +49,15 @@ hr {
     background-color: rgb(255,255,255,0.7);
     font-size: 65px;
     color: black;
-    margin: 0% 40%;
-    
+    margin-left: 40%;
+    margin-right:40%
     margin-top: 55%;
     letter-spacing: 2px;
     font-family: cursive;
     border-radius: 15px;
 }
 .dialog {
-    font-size: 35px;
+    font-size: 40px;
     color: #95f6ff;
     margin-left: 40.25%;
     margin-top: 1%;
