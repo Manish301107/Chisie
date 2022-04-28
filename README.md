@@ -14,7 +14,7 @@ body {
     font-size: 20px;
 }
 .heading-logo {
-    margin: 1% 9%;
+    margin: -2% 9%;
     display:flex;
 }
 ul {
