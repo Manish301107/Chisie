@@ -65,7 +65,7 @@ h1 {
 }
 p {
     
-    font-size: 22px;
+    font-size: 29px;
     margin: 5% 20%;
     text-align: center;
     color: white;
