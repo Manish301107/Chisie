@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,13 +13,13 @@ body {
     font-size: 20px;
 }
 .heading-logo {
-    margin: -10% 9%;
+    margin: 1% 9%;
     display:flex;
 }
 ul {
     text-decoration: none;
     list-style: none;
-    margin: -0.5% 30%;
+    margin: 1% 30%;
     display:flex;
 }
 sub {
