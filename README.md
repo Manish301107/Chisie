@@ -19,7 +19,7 @@ body {
 ul {
     text-decoration: none;
     list-style: none;
-    margin: 1% 30%;
+    margin: 3% 30%;
     display:flex;
 }
 sub {
