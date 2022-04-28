@@ -14,7 +14,7 @@ body {
     font-size: 20px;
 }
 .heading-logo {
-    margin: -2% 9%;
+    margin: -10% 9%;
     display:flex;
 }
 ul {
@@ -46,13 +46,13 @@ hr {
      100%{ background-image: url("https://images.unsplash.com/photo-1540914124281-342587941389?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60");}
 }
 
-h1 {
+.h1 {
     background-color: rgb(255,255,255,0.7);
     font-size: 65px;
     color: black;
     margin: 0% 40%;
     
-    margin-top: 35%;
+    margin-top: 55%;
     letter-spacing: 2px;
     font-family: cursive;
     border-radius: 15px;
@@ -60,12 +60,12 @@ h1 {
 .dialog {
     font-size: 35px;
     color: #95f6ff;
-    margin-left: 37.25%;
-    margin-top: 0.5%;
+    margin-left: 40.25%;
+    margin-top: 1%;
 }
 p {
     
-    font-size: 29px;
+    font-size: 25px;
     margin: 5% 20%;
     text-align: center;
     color: white;
@@ -99,7 +99,7 @@ p {
     <hr>
     <section class="image-head">
         .
-         <h1>...CHESSI</h1>
+         <h1 class="h1">...CHESSI</h1>
          <h3 class="dialog">"Now Time to Eat"</h3>
          <p>Make Your first order and get 1 set non-stick pots. Make order from Chessi because it give more fun. Thankyou for suppoting....</p>
          <p>.</p>
