@@ -30,7 +30,7 @@ sub {
 }
 li {
     margin:0px 10px;
-    font-size: 15px;
+    font-size: 18px;
 }
 hr {
     color: black;
@@ -100,13 +100,13 @@ p {
 
 .Catogary-name {
     font-size:23px;
-    margin-top: 8px;
+    margin-top: 5px;
     margin-left:65px;
 }
 
 .Catogary-name-short {
     font-size:23px;
-    margin-top: 8px;
+    margin-top: 5px;
     margin-left:80px;
     
 }
