@@ -50,9 +50,9 @@ h1 {
     background-color: rgb(255,255,255,0.7);
     font-size: 55px;
     color: black;
-    margin: 0% 35%;
-    
-    margin-top: 15%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 50%;
     letter-spacing: 2px;
     font-family: cursive;
     border-radius: 15px;
@@ -121,7 +121,7 @@ p {
             <li class="about">About</li>
         </ul>
     </div>
-    <hr>
+    
     <section class="image-head">
         .
          <h1>...CHESSI</h1>
@@ -129,7 +129,7 @@ p {
          <p>Make Your first order and get 1 set non-stick pots. Make order from Chessi because it give more fun. Thankyou for suppoting....</p>
          <p>.</p>
     </section>
-    <h2 class="Categories">CATEGORIES</h2>
+    <h3 class="Categories">CATEGORIES</h3>
     <div class="Catogary-section">
         <img src="https://b.zmtcdn.com/data/dish_images/da37534e55d5f1450ea9771c0627a8d81641644205.png?fit=around|120:120&crop=120:120;*,*" class="Catogary-image">
         <h6 class="Catogary-name">Simple Thali</h6>
