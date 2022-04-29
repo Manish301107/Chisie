@@ -14,8 +14,8 @@ body {
     font-size: 20px;
 }
 .heading-logo {
-    margin-top:-50px;
-    margin-left:70px;
+    margin-top:-80px;
+    margin-left:100px;
     display:flex;
 }
 ul {
@@ -52,7 +52,7 @@ hr {
 
 .main-name {
     background-color: rgb(255,255,255,0.7);
-    font-size:95px;
+    font-size:155px;
     color: black;
     margin-left: 40%;
     margin-right: 40%;
@@ -62,10 +62,10 @@ hr {
     border-radius: 15px;
 }
 .dialog {
-    font-size: 30px;
+    font-size: 35px;
     color: #95f6ff;
-    margin-left: 41%;
-    margin-top: -2%;
+    margin-left: 40%;
+    margin-top:-8%;
 }
 p {
     
@@ -100,7 +100,7 @@ p {
 .Catogary-name {
     font-size:23px;
     margin-top: 8px;
-    margin-left:55px;
+    margin-left:60px;
 }
 
 .Catogary-name-short {
