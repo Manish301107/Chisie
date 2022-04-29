@@ -94,7 +94,7 @@ p {
     border-radius: 50px;
     margin-top: 30px;
     margin-left:60px;
-    margin-buttom:10px;
+    margin-buttom:20px;
     box-shadow:1px 1px 8px 2px black;
     
 }
@@ -102,13 +102,13 @@ p {
 .Catogary-name {
     font-size:23px;
     margin-top: 10px;
-    margin-left:65px;
+    margin-left:75px;
 }
 
 .Catogary-name-short {
     font-size:23px;
     margin-top: 10px;
-    margin-left:80px;
+    margin-left:85px;
     
 }
 
