@@ -14,7 +14,7 @@ body {
     font-size: 20px;
 }
 .heading-logo {
-    margin-top:-80px;
+    margin-top:-50px;
     margin-left:100px;
     display:flex;
 }
@@ -30,6 +30,7 @@ sub {
 }
 li {
     margin:0px 10px;
+    font-size: 25px;
 }
 hr {
     color: black;
@@ -64,8 +65,8 @@ hr {
 .dialog {
     font-size: 35px;
     color: #95f6ff;
-    margin-left: 40%;
-    margin-top:-8%;
+    margin-left: 42%;
+    margin-top:-20px;
 }
 p {
     
@@ -91,7 +92,7 @@ p {
     height: 17%;
     width: 90px;
     border-radius: 50px;
-    margin-top: 29px;
+    margin-top: 30px;
     margin-left:60px;
     box-shadow:1px 1px 8px 2px black;
     
@@ -100,7 +101,7 @@ p {
 .Catogary-name {
     font-size:23px;
     margin-top: 8px;
-    margin-left:60px;
+    margin-left:65px;
 }
 
 .Catogary-name-short {
