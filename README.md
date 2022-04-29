@@ -35,6 +35,8 @@ hr {
  .image-head {
     background-image: url('https://media.istockphoto.com/photos/delicious-rich-variety-breakfast-on-the-table-picture-id1147619044?k=20&m=1147619044&s=612x612&w=0&h=UXyPZ0zjHx5V1RwGs3RLyT8p_VA5EMHtwMt-MGpqXKc=');
     background-size: 100% 100%;
+    height: 150%;
+    width: 110%;
     animation:slider 20s infinite;
 }
 @keyframes slider {
