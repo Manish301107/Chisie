@@ -21,7 +21,7 @@ body {
 ul {
     text-decoration: none;
     list-style: none;
-    margin-top:50px;
+    margin-top:0px;
     margin-left:100px;
     display:flex;
 }
@@ -29,7 +29,7 @@ sub {
     font-size: 9px;
 }
 li {
-    margin: 20px 50px;
+    margin:0px 10px;
 }
 hr {
     color: black;
@@ -37,7 +37,7 @@ hr {
  .image-head {
     background-image: url('https://media.istockphoto.com/photos/delicious-rich-variety-breakfast-on-the-table-picture-id1147619044?k=20&m=1147619044&s=612x612&w=0&h=UXyPZ0zjHx5V1RwGs3RLyT8p_VA5EMHtwMt-MGpqXKc=');
     background-size: 100% 100%;
-    height:250px;
+    height:550px;
     width: 100%;
     animation:slider 20s infinite;
 }
@@ -64,7 +64,7 @@ hr {
 .dialog {
     font-size: 30px;
     color: #95f6ff;
-    margin-left: 40%;
+    margin-left: 43%;
     margin-top: 0%;
 }
 p {
