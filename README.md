@@ -94,6 +94,7 @@ p {
     border-radius: 50px;
     margin-top: 30px;
     margin-left:60px;
+    margin-buttom:10px;
     box-shadow:1px 1px 8px 2px black;
     
 }
