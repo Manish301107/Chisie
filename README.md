@@ -14,8 +14,8 @@ body {
     font-size: 20px;
 }
 .heading-logo {
-    margin-top:-20px;
-    margin-left:35px;
+    margin-top:-50px;
+    margin-left:55px;
     display:flex;
 }
 ul {
@@ -37,7 +37,7 @@ hr {
  .image-head {
     background-image: url('https://media.istockphoto.com/photos/delicious-rich-variety-breakfast-on-the-table-picture-id1147619044?k=20&m=1147619044&s=612x612&w=0&h=UXyPZ0zjHx5V1RwGs3RLyT8p_VA5EMHtwMt-MGpqXKc=');
     background-size: 100% 100%;
-    height:450px;
+    height:380px;
     width: 100%;
     animation:slider 20s infinite;
 }
@@ -52,7 +52,7 @@ hr {
 
 .main-name {
     background-color: rgb(255,255,255,0.7);
-    font-size: 5px;
+    font-size:95px;
     color: black;
     margin-left: 40%;
     margin-right: 40%;
@@ -65,7 +65,7 @@ hr {
     font-size: 30px;
     color: #95f6ff;
     margin-left: 41%;
-    margin-top: 0%;
+    margin-top: -2%;
 }
 p {
     
@@ -91,8 +91,8 @@ p {
     height: 17%;
     width: 90px;
     border-radius: 50px;
-    margin-top: 30px;
-    margin-left:55px;
+    margin-top: 26px;
+    margin-left:60px;
     box-shadow:1px 1px 8px 2px black;
     
 }
@@ -127,7 +127,8 @@ p {
     </div>
     
     <section class="image-head">
-        .
+        .<br>
+        <br>
          <h1 class="main-name">...CHESSI</h1>
          <h3 class="dialog">"Now Time to Eat"</h3>
          <p>Make Your first order and get 1 set non-stick pots. Make order from Chessi because it give more fun. Thankyou for suppoting....</p>
