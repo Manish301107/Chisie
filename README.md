@@ -111,6 +111,51 @@ p {
     
 }
 
+       
+       
+       .slider {
+            overflow:hidden;
+            height: 500px;
+            transform:translate(0px,50px);
+            width: 100%;
+            height: 250px;
+        }
+        .slide {
+            float:left;
+            width:20%;
+            
+        }
+        img {
+            float:left;
+            height: 500px;
+            width: 100%;
+            
+            background-size:100% 100%;
+        }
+        .banner {
+            height:100%;
+            width:100%;
+        }
+        figure {
+            position: relative;
+            width: 500%;
+            margin: 0%;
+            left:0;
+            
+            animation:ravi 15s infinite;
+        }
+        @keyframes ravi {
+            0%{Left:0%;}
+            10%{Left:-0%;}
+            20%{Left:-100%;}
+            30%{Left:-100%;}
+            40%{Left:-200%;}
+            50%{Left:-200%;}
+            60%{Left:-300%;}
+            70%{Left:-300%;}
+            80%{Left:-0%;}
+            90%{Left:0%;}
+        }
     </style>
 </head>
 <body>
@@ -196,6 +241,21 @@ p {
         <h6 class="Catogary-name-short"> Pasta</h6>
     </div>
    
- 
+      <div class="slider">
+        <figure>
+            <div class="slide">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YOlQ5kMsn3Cd3IfXFgmpaU-BzHpgeE_20Q&usqp=CAU"  class="banner">
+            </div>
+            <div class="slide">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwN5hb90aN4mIsKFMtpjtqSbXXrnYW5JqxQ&usqp=CAU" class="banner">
+            </div>
+            <div class="slide">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AVTbBHcFznpVyHHCkNG_nIW6SoW0PTIAjQ&usqp=CAU" class="banner">
+            </div>
+            <div class="slide">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3aYLshepEZ-eVu1oUpz-HYwdc4ln--eDJrQ&usqp=CAU" class="banner">
+            </div>
+        </figure>
+    </div>
 </body>
 </html>
