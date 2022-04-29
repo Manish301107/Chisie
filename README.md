@@ -100,13 +100,13 @@ p {
 
 .Catogary-name {
     font-size:23px;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-left:65px;
 }
 
 .Catogary-name-short {
     font-size:23px;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-left:80px;
     
 }
