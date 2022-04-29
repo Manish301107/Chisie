@@ -30,7 +30,7 @@ sub {
 }
 li {
     margin:0px 10px;
-    font-size: 25px;
+    font-size: 15px;
 }
 hr {
     color: black;
