@@ -15,14 +15,14 @@ body {
 }
 .heading-logo {
     margin-top:-50px;
-    margin-left:55px;
+    margin-left:70px;
     display:flex;
 }
 ul {
     text-decoration: none;
     list-style: none;
     margin-top:0px;
-    margin-left:200px;
+    margin-left:290px;
     display:flex;
 }
 sub {
