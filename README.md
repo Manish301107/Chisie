@@ -91,21 +91,21 @@ p {
     height: 17%;
     width: 90px;
     border-radius: 50px;
-    margin-top: 26px;
+    margin-top: 29px;
     margin-left:60px;
     box-shadow:1px 1px 8px 2px black;
     
 }
 
 .Catogary-name {
-    font-size:18px;
-    margin-top: 10px;
+    font-size:23px;
+    margin-top: 8px;
     margin-left:55px;
 }
 
 .Catogary-name-short {
-    font-size:18px;
-    margin-top: 10px;
+    font-size:23px;
+    margin-top: 8px;
     margin-left:80px;
     
 }
@@ -114,7 +114,7 @@ p {
 </head>
 <body>
     <div class="heading-logo">
-        <img src="">
+        
         <h2 class="heading-name"><sub>WELCOME</sub>Chessi</h2>
         
         <ul>
@@ -127,8 +127,9 @@ p {
     </div>
     
     <section class="image-head">
-        .<br>
-        <br>
+        .<br>.
+        .<br>.
+         <br>.
          <h1 class="main-name">...CHESSI</h1>
          <h3 class="dialog">"Now Time to Eat"</h3>
          <p>Make Your first order and get 1 set non-stick pots. Make order from Chessi because it give more fun. Thankyou for suppoting....</p>
