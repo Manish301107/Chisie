@@ -22,7 +22,7 @@ ul {
     text-decoration: none;
     list-style: none;
     margin-top:0px;
-    margin-left:290px;
+    margin-left:230px;
     display:flex;
 }
 sub {
