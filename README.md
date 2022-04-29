@@ -48,10 +48,10 @@ hr {
 
 h1 {
     background-color: rgb(255,255,255,0.7);
-    font-size: 55px;
+    font-size: 95px;
     color: black;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 40%;
+    margin-right: 40%;
     margin-top: 50%;
     letter-spacing: 2px;
     font-family: cursive;
@@ -87,8 +87,8 @@ p {
     height: 17%;
     width: 90px;
     border-radius: 50px;
-    margin-top: 50px;
-    margin-left:60px;
+    margin-top: 40px;
+    margin-left:55px;
     box-shadow:1px 1px 8px 2px black;
     
 }
@@ -102,7 +102,7 @@ p {
 .Catogary-name-short {
     font-size:18px;
     margin-top: 10px;
-    margin-left:75px;
+    margin-left:80px;
     
 }
 
