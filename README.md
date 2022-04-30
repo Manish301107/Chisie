@@ -94,14 +94,14 @@ p {
     border-radius: 50px;
     margin-top: 30px;
     margin-left:60px;
-    margin-buttom:20px;
+    margin-buttom:40px;
     box-shadow:1px 1px 8px 2px black;
     
 }
 
 .Catogary-name {
     font-size:23px;
-    
+    margin-top: 20px;
     margin-left:65px;
 }
 
@@ -156,6 +156,27 @@ p {
             70%{Left:-300%;}
             80%{Left:-0%;}
             90%{Left:0%;}
+        }
+       
+       .online-section {
+            margin-top:50px;
+            margin-left:50px;
+            width: 270px;
+            height: 180px;
+            box-shadow:1px 1px 5px 3px gray;
+            border-radius: 20px;
+            float:left;
+        }
+        .online-image {
+            margin-top:20px;
+            height: 120px;
+            width:270px;
+        }
+        h7 {
+            font-size:25px;
+            font-family:fantasy;
+            margin-left:30px;
+            margin-top:25px;
         }
     </style>
 </head>
@@ -258,5 +279,59 @@ p {
             </div>
         </figure>
     </div>
+   
+   <br>.
+     <br>.
+     <br>.
+     
+   <h2 class="Categories">ONLINE ORDER</h2>
+   <div class="online-section">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YOlQ5kMsn3Cd3IfXFgmpaU-BzHpgeE_20Q&usqp=CAU" class="online-image">
+      <br>
+      <h7>KFC</h7>
+   </div>
+   
+   <div class="online-section">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YOlQ5kMsn3Cd3IfXFgmpaU-BzHpgeE_20Q&usqp=CAU" class="online-image">
+      <br>
+      <h7>Pizza Passion</h7>
+   </div>
+   
+   <div class="online-section">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YOlQ5kMsn3Cd3IfXFgmpaU-BzHpgeE_20Q&usqp=CAU" class="online-image">
+      <br>
+      <h7>Chulha @ 99</h7>
+   </div>
+   
+   <br>.
+   <br>.
+   <br>.
+   <br>.
+   <br>.
+   <br>.
+   <br>.
+   <br>.
+   <br>.
+   <br>.
+   <br>.
+   
+   <h2 class="Categories">DINING </h2>
+   <div class="online-section">
+      <img src="https://i2.wp.com/www.indiaretailing.com/wp-content/uploads/2020/03/restaurant-1.jpg?resize=681%2C400&ssl=1" class="online-image">
+      <br>
+      <h7>KFC</h7>
+   </div>
+   
+   <div class="online-section">
+      <img src="http://theteatree.lk/wp-content/uploads/2016/06/dining.jpg" class="online-image">
+      <br>
+      <h7>Pizza Passion</h7>
+   </div>
+   
+   <div class="online-section">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_xUOiuiP3rH7ZcCNl2xtY4fL5oub7yzyuA&usqp=CAU" class="online-image">
+      <br>
+      <h7>Chulha @ 99</h7>
+   </div>
 </body>
 </html>
