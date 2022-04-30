@@ -79,7 +79,7 @@ p {
 
 .Categories {
     margin: -20px 30px;
-    font-size:32px;
+    font-size:35px;
     text-decoration-line: underline;
     text-underline-offset: 10px;
     text-decoration-color:#7fffac;
@@ -160,16 +160,16 @@ p {
        
        .online-section {
             margin-top:50px;
-            margin-left:50px;
+            margin-left:40px;
             width: 270px;
-            height: 180px;
+            height: 190px;
             box-shadow:1px 1px 5px 3px gray;
             border-radius: 20px;
             float:left;
         }
         .online-image {
             margin-top:20px;
-            height: 120px;
+            height: 130px;
             width:270px;
         }
         h7 {
