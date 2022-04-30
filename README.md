@@ -166,7 +166,7 @@ p {
     text-decoration-color:#7fffac;
        }
        .online-section {
-            margin-top:30px;
+            margin-top:10px;
             margin-left:40px;
             width: 270px;
             height: 190px;
@@ -318,7 +318,7 @@ p {
    <br>.
    <br>.
    <br>.
-   
+   <br>.
    
    
    
