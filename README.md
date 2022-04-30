@@ -289,7 +289,7 @@ p {
    
    <br>.
      <br>.
-     <br>.
+     
      
    <h2 class="online">ONLINE ORDER</h2>
    <div class="online-section">
@@ -318,8 +318,8 @@ p {
    <br>.
    <br>.
    <br>.
-   <br>.
-   <br>.
+   
+   
    
    
    <h2 class="online">DINING </h2>
