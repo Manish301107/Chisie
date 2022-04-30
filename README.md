@@ -158,6 +158,13 @@ p {
             90%{Left:0%;}
         }
        
+       .online {
+            margin: 0px 30px;
+    font-size:35px;
+    text-decoration-line: underline;
+    text-underline-offset: 10px;
+    text-decoration-color:#7fffac;
+       }
        .online-section {
             margin-top:50px;
             margin-left:40px;
@@ -284,7 +291,7 @@ p {
      <br>.
      <br>.
      
-   <h2 class="Categories">ONLINE ORDER</h2>
+   <h2 class="online">ONLINE ORDER</h2>
    <div class="online-section">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YOlQ5kMsn3Cd3IfXFgmpaU-BzHpgeE_20Q&usqp=CAU" class="online-image">
       <br>
@@ -315,7 +322,7 @@ p {
    <br>.
    <br>.
    
-   <h2 class="Categories">DINING </h2>
+   <h2 class="online">DINING </h2>
    <div class="online-section">
       <img src="https://i2.wp.com/www.indiaretailing.com/wp-content/uploads/2020/03/restaurant-1.jpg?resize=681%2C400&ssl=1" class="online-image">
       <br>
