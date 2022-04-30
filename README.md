@@ -101,14 +101,14 @@ p {
 
 .Catogary-name {
     font-size:23px;
-    margin-top: 10px;
-    margin-left:75px;
+    
+    margin-left:65px;
 }
 
 .Catogary-name-short {
     font-size:23px;
     margin-top: 10px;
-    margin-left:85px;
+    margin-left:80px;
     
 }
 
