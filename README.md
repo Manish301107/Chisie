@@ -320,7 +320,7 @@ p {
    <br>.
    <br>.
    <br>.
-   <br>.
+   
    
    <h2 class="online">DINING </h2>
    <div class="online-section">
