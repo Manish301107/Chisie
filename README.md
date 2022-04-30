@@ -53,7 +53,7 @@ hr {
 
 .main-name {
     background-color: rgb(255,255,255,0.7);
-    font-size:155px;
+    font-size:65px;
     color: black;
     margin-left: 40%;
     margin-right: 40%;
@@ -70,7 +70,7 @@ hr {
 }
 p {
     
-    font-size: 22px;
+    font-size: 15px;
     margin: 5% 20%;
     text-align: center;
     color: white;
@@ -78,7 +78,7 @@ p {
 }
 
 .Categories {
-    margin: -40px 30px;
+    margin: -20px 30px;
     font-size:38px;
     text-decoration-line: underline;
     text-underline-offset: 10px;
@@ -100,13 +100,13 @@ p {
 }
 
 .Catogary-name {
-    font-size:23px;
+    font-size:18px;
     margin-top: 20px;
     margin-left:65px;
 }
 
 .Catogary-name-short {
-    font-size:23px;
+    font-size:18px;
     margin-top: 10px;
     margin-left:80px;
     
@@ -159,14 +159,14 @@ p {
         }
        
        .online {
-            margin: -40px 30px;
+            margin: -30px 30px;
     font-size:40px;
     text-decoration-line: underline;
     text-underline-offset: 10px;
     text-decoration-color:#7fffac;
        }
        .online-section {
-            margin-top:10px;
+            margin-top:30px;
             margin-left:40px;
             width: 270px;
             height: 190px;
